@@ -1,0 +1,33 @@
+BREAK POINTS :
+        640px
+        768px 
+        1024px
+FONT AWSOME KEY :- 
+          <script
+      src="https://kit.fontawesome.com/1547790c95.js"
+      crossorigin="anonymous"
+    ></script> 
+
+
+FONT-FAMILY:
+            All SubHeading : font-family: 'PT Serif', serif;
+                              weight : 400 , 700
+                         
+                              font-family: 'Source Serif Pro', serif;
+                              weight :200 , 300 , 400 , 600 , 700 
+
+                              font-family: 'Open Sans', sans-serif;
+                              weight : 300,400,500
+            
+
+
+SVG'S :
+      <i class="fa-brands fa-twitter"></i>
+      <i class="fa-brands fa-instagram"></i>
+      <i class="fa-brands fa-instagram"></i>
+      <i class="fa-brands fa-apple"></i>
+
+
+COLORS : 
+
+        
